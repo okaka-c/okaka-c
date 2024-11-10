@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okaka-c&theme=default)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=okaka-c&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=okaka-c&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaka-c&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=okaka-c&theme=onedark)](https://github-profile-trophy.vercel.app/?username= okaka-c&theme=tokyonight)
